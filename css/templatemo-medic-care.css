@@ -13,9 +13,9 @@ https://templatemo.com/tm-566-medic-care
   --white-color:                  #FFFFFF;
   --primary-color:                #FF3F33;
   --section-bg-color:            #F9F9F9;
-  --dark-color:                   #000000;
+  --dark-color:                   #FFDDD7;
   --title-color:                   #FF3F33;
-  --p-color:                      #717275;
+  --p-color:                      #808080;
   --border-color:                 #eaeaea;
 
   --body-font-family:             'Open Sans', sans-serif;
@@ -644,7 +644,7 @@ strong {
 
 .reviews-carousel .owl-item.active.center .reviews-thumb,
 .reviews-carousel .owl-item.active.center .reviews-text {
-  color: var(--white-color);
+  color: var(--white color);
 }
 
 .reviews-carousel .owl-nav {
@@ -716,7 +716,7 @@ strong {
 }
 
 .booking-form #submit-button {
-  background: var(--dark-color);
+  background: var(--primary-color);
   border-bottom: 0;
   font-weight: var(--font-weight-semibold);
   color: var(--white-color);
@@ -725,7 +725,7 @@ strong {
 }
 
 .booking-form #submit-button:hover {
-  background: var(--primary-color);
+  color: #FFA500;
 }
 
 /*---------------------------------------
